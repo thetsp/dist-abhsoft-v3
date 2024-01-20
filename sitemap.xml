@@ -1,0 +1,131 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+          <loc>https://abhsoft.tech</loc>
+          <changefreq>weekly</changefreq>
+          <priority>1.0</priority>
+      </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/about</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/career</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/contact</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/development-policy</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/feedback</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/free</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/internship</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/internship-policy</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/portfolios</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/offers/hostinger</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/privacy-policy</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/providers</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/refund-policy</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/solutions</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/smart-india-hackathon</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/terms-and-conditions</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/vip-partnership</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/videos</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/vip-partnership-policy</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
+            <loc>https://abhsoft.tech/why-to-choose-us</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+      
+    </urlset>
+  

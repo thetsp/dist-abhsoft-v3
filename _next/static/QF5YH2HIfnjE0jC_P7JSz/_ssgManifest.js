@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcourses\u002F[id]","\u002Fsmart-india-hackathon\u002F[id]","\u002Fsub-categories\u002F[id]","\u002Fvideos\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
