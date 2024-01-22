@@ -50,19 +50,25 @@
         </url>
           
         <url>
+            <loc>https://abhsoft.tech/far/god/ram</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+          
+        <url>
             <loc>https://abhsoft.tech/internship-policy</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/portfolios</loc>
+            <loc>https://abhsoft.tech/offers/hostinger</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/offers/hostinger</loc>
+            <loc>https://abhsoft.tech/portfolios</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
@@ -86,13 +92,13 @@
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/solutions</loc>
+            <loc>https://abhsoft.tech/smart-india-hackathon</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/smart-india-hackathon</loc>
+            <loc>https://abhsoft.tech/solutions</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
@@ -104,13 +110,13 @@
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/vip-partnership</loc>
+            <loc>https://abhsoft.tech/videos</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
           
         <url>
-            <loc>https://abhsoft.tech/videos</loc>
+            <loc>https://abhsoft.tech/vip-partnership</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
